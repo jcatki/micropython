@@ -1,0 +1,23 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [
+        "BLE",
+		"OLED",
+        "WiFi"
+    ],
+    "id": "esp32",
+    "images": [
+        "heltec-wifi-kit-32.png"
+    ],
+    "mcu": "esp32",
+    "product": "Heltec WIFI Kit 32",
+    "thumbnail": "",
+    "url": "https://heltec.org/project/wifi-kit-32/",
+    "variants": {
+        "idf3": "Compiled with IDF 3.x"
+    },
+    "vendor": "Heltec"
+}
